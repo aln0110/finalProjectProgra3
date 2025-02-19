@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "libs/commons-codec-1.6.jar",
+        "libs/flatlaf-2.6.jar",
+        "libs/flatlaf-intellij-themes-2.6.jar",
+        "libs/mysql-connector-java-5.1.46.jar"
+    ]
+}
